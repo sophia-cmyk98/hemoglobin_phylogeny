@@ -16,7 +16,7 @@ Phylogenetic analysis of hemoglobin alpha chain proteins from five vertebrate sp
 - **High conservation** of oxygen-binding domains
 - **Branch lengths** indicate evolutionary divergence times
 
-## 🛠Methodology
+## Methodology
 1. **Sequence retrieval** from NCBI Protein database
 2. **Multiple sequence alignment** using Clustal Omega in UGENE
 3. **Phylogenetic tree construction** with Maximum Likelihood method
@@ -26,6 +26,8 @@ Phylogenetic analysis of hemoglobin alpha chain proteins from five vertebrate sp
 - `hemoglobin_sequences.fasta` - Input sequences in FASTA format
 - `alignment.clustal` - Multiple sequence alignment results  
 - `phylogenetic_tree.png` - Visualized evolutionary tree
+## Multiple sequence alignment
+![Sequence Alignment in UGENE](Multiple_sequence_alignment_results.png)
 
 ## Phylogenetic Tree
 ![Phylogenetic Tree](phylogenetic_tree.png)
